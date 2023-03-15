@@ -1,2 +1,3 @@
 #!/bin/bash
+export TRUEKNOWLEDGE="0"
 echo $TRUEKNOWLEDGE + 128
