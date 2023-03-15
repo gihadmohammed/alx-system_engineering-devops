@@ -1,4 +1,3 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=0
-export DIVIDE=0
-export POWER=0
+DIVIDE="0"
+POWER="0"
